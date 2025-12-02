@@ -2,3 +2,5 @@
 - Latex と Github をどうしても繋げたい
 - <https://qiita.com/Nmatician/items/765edfbd726725d1ae8c>を参考
 - Ubuntu(wsl)をインストールして有効化はできた
+- Vscode と github を wsl を通して繋げれた★ あとは、texをつなげるだけ！
+- Google colab もこの調子で繋げれるのでは？
